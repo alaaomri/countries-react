@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+
+.my-countries {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.my-countries .card{
+  width: 20rem;
+}
+
+.card-img-top{
+  height: 10rem;
+  min-Width: 15rem;
+}
+
